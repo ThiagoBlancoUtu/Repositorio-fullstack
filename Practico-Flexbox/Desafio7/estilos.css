@@ -1,0 +1,48 @@
+.menu {
+    display: flex;
+    align-items: center;
+    background-color: #1e293b;
+    padding: 12px 20px;
+    color: #e2e8f0;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.menuNav {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    flex: 1;
+}
+
+.menuNav a {
+    color: #e2e8f0;
+}
+
+.menuNav a:hover {
+    color: #38bdf8;
+}
+
+.boton {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.boton button {
+    background-color: #38bdf8;
+    color: #0f172a;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 8px;
+}
+
+.boton button:hover {
+    background-color: #0ea5e9;
+}
+
+img {
+    height: 60px;
+}

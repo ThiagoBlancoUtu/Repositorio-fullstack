@@ -1,0 +1,17 @@
+#container1 {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+    color: rgb(0, 195, 209);
+    background-color: mediumseagreen;
+    padding: 10px;
+justify-content: space-around;
+
+}
+
+section {
+justify-content: space-between;
+width: 50 px;
+margin: 10px;
+background-color: blue;
+}

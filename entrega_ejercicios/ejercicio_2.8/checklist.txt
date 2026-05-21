@@ -1,0 +1,8 @@
+☑ Formulario con 5+ inputs
+☑ Labels asociados correctamente
+☑ Tabla con thead/tbody
+☑ Listas anidadas
+☑ CSS vinculado correctamente
+☑ 3+ formas de colores
+☑ Selectores: etiqueta/clase/ID
+☑ Estilos aplicados visibles

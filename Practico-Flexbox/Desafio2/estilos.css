@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #0f172a;
+    padding: 20px;
+}
+
+section {
+   width: 100px;
+    background-color: #1e293b;
+    color: #e2e8f0;
+    padding: 10px;
+    border-radius: 12px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3);
+}

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head> --> 1°error: no cierra la etiqueta head con </head>
+<meta charset="UTF-8">
+
+ --> 2°error: Al no incluir la etiqueta de lenguaje <html lang="es"> se pueden producir problemas debido a la utilización de tildes y la "ñ" aunque de todas formas es recomendable incluir la etiqueta
+<title>Mi Portfolio</title>
+--> aquí se debería cerrar el head
+
+<body> --> 3°error: no cierra la etiqueta body con </body>
+<Header> --> 4°error: la etiqueta header debería estar escrita en minúsculas
+<h1>Juan Pérez</h1>
+</header>
+
+<main>
+<p>Hola, soy estudiante de programación --> 5°error: no cierra la etiqueta de el párrafo con  </p>
+<p>Me gusta crear sitios web</p>
+</main>
+
+--> aquí se debería cerrar el body
+</html>

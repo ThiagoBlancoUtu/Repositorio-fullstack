@@ -1,0 +1,21 @@
+#principal {
+    color: yellow; 
+}
+
+.destacado {
+    color: rgba(35, 18, 18); 
+}
+
+h2 {
+    color: rgb(6, 238, 255); 
+}
+
+p {
+    background-color: #06f76b; 
+}
+
+
+/*La diferencia entre clase e id es que la clase es utilizada cuando se busca repetir un estilo en diferentes partes del proyecto,
+ es decir, se puede utilizar en mas de un elemento al mismo tiempo mientras que el id es utilizado como un identificador
+ para un unico elemento del html y no debe ser repetido en otros elementos*/
+

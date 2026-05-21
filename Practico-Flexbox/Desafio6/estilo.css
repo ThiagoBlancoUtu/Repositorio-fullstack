@@ -1,0 +1,40 @@
+.cuerpo {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    height: 100vh;
+    background-color: #0f172a;
+    padding: 20px;
+}
+
+div { 
+    background-color: #1e293b; 
+    height: 200px;
+    width: 200px;
+    color: #e2e8f0;
+    text-align: center;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#caja1{
+    background-color: #0facef;
+    height: 60px;
+}
+
+#caja2{
+    background-color: #1c90c6;
+    height: 150px;
+}
+
+#caja3{
+    background-color: #21729b;
+    height: 100px;
+}
+
+#caja4{
+    background-color: #1e536f;
+    height: 200px;
+}

@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #0f172a;
+    height: 100vh;
+}
+
+section {
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    font-size: 100px;
+    background-color: #1e293b;
+    color: #38bdf8;
+    padding: 10px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.35);
+}
